@@ -1,0 +1,24 @@
+Last login: Tue Feb 26 13:11:08 on console
+air-de-isabella:~ isabellamedeiros$ ls
+Applications	Downloads	Music		estilos.css
+Desktop		Library		Pictures	git-cola
+Documents	Movies		Public
+air-de-isabella:~ isabellamedeiros$ cd Documents
+air-de-isabella:Documents isabellamedeiros$ ls
+Estudodeprogramacao	TCC
+air-de-isabella:Documents isabellamedeiros$ cd Estudo de programacao
+-bash: cd: Estudo: No such file or directory
+air-de-isabella:Documents isabellamedeiros$ ls
+Estudodeprogramacao	TCC
+air-de-isabella:Documents isabellamedeiros$ cd Estudodeprogramacao
+air-de-isabella:Estudodeprogramacao isabellamedeiros$ ls
+ Logica - Logica de programacao 1	Logica de programacao 2
+Flexbox					Programando na linguagem da web
+HTML5 e CSS3				Sass
+JQuery1_e_2
+air-de-isabella:Estudodeprogramacao isabellamedeiros$ cd 
+
+
+
+
+
